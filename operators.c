@@ -4,8 +4,8 @@ int main()
 	
 	// ************Bitwise op & | ^ << >> ~ *******
 
-int a=2;
-printf("%d",~a);
+//int a=2;
+//printf("%d",~a);
 //printf("%d",a<<2);
 //printf("%d",a>>2);
 /*int a=4,b=5;
@@ -31,11 +31,16 @@ printf("max of 3 numbers :%d",max);*/
 /*
 Q1.Initialise a number check whether it is even or odd
       eg int n1=11
-      
+           
 Q2.Initialise with age check whether person is 
     eligible for voting or not
      int age=23
 */
+
+//answer od questions:1,2
+
+int n1=12;
+n1%2==0?printf("Even number"):printf("odd number");
 	
 /*int n1=140,n2=170,max;
 n1>n2?printf("%d is max",n1):printf("%d is max",n2);*/

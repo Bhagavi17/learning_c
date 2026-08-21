@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main()+
 {  
     //1.
     /*int n1,n2,sum;
@@ -14,14 +14,11 @@ int main()
     printf("enter radius value:");
     scanf("%f",&rad);
     area=pi*rad*rad;*/
-    
-    
-  
-	
-	/*
+    /*
 	  Q1.Accept 2 numbers and print sum of those 2 numbers
 	  Q2.Accept radius from user and print area of circle	
 	*/
+
 	
 	/*char ch1;
 	int n1;

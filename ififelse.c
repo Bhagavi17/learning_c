@@ -3,18 +3,18 @@ int main()
 {
 	// **************if else *************************
 	  
-	  /*if(0)
-	  {
-	  	printf("Hello");	  	
-	  }
-	  else
-	  {
-	  	printf("hi");
-	  }*/
+//	  if(0)
+//	  {
+//	  	printf("Hello");	  	
+//	  }
+//	  else
+//	  {
+//	  	printf("hi");
+//	  }
 	  
 	  //Max of 2 numbers
 	  
-	  /*int n1,n2;
+	  int n1,n2;
 	  printf("enter 2 numbers:");
 	  scanf("%d%d",&n1,&n2);
 	  if(n1>n2)
@@ -24,7 +24,7 @@ int main()
 	  else
 	  {
 	  	printf("\n n2 is max");
-	  }*/
+	  }
 	
 	/*Q1.Accept a number and print whether it is
 	     negative number or positive number */
