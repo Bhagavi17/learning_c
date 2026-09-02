@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {
+	int a ,b;
+	prinf("hello that data we have fetched")
 //*****************goto ,exit(0) **************
 	printf("\nGood");
 	printf("\nWelcome");
@@ -10,6 +12,7 @@ int main()
 	printf("\nHello");
 	ABC:printf("\n How are you");  //label:
 	printf("\n End");
+	printf("\n data slove");
 	
 	
  /* Q1.Print 1 2 3 4 6 7 8 9 10 (while loop )
