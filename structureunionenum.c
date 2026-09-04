@@ -73,7 +73,7 @@ int main()
 	printf("\n Enter rollno:");
 	scanf("%d",&s2.rno);
 	printf("\n Enter name:");
-	fflush(stdin);
+	fflush(stdin);//its flush the data
 	gets(s2.name);
 	printf("\n Enter marks:");
 	scanf("%d",&s2.marks);

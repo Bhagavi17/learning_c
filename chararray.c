@@ -11,7 +11,7 @@ int main()
 	
 	
 //*********************************
-	/*char name[20]={"Vaishali"};
+	/*char name[20]={"Bhagavi"};
 	printf("Your name is %s",name);*/
 	
 	/*char vowels[6]={'a','e','i','o','u'};
